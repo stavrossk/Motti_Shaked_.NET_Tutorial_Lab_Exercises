@@ -1,0 +1,9 @@
+P:\Development\DESKTOP\Current\Lab1Ex1\Lab1Ex1\bin\Debug\Lab1Ex1.exe
+P:\Development\DESKTOP\Current\Lab1Ex1\Lab1Ex1\bin\Debug\Lab1Ex1.pdb
+P:\Development\DESKTOP\Current\Lab1Ex1\Lab1Ex1\obj\x86\Debug\ResolveAssemblyReference.cache
+P:\Development\DESKTOP\Current\Lab1Ex1\Lab1Ex1\obj\x86\Debug\Lab1Ex1.exe
+P:\Development\DESKTOP\Current\Lab1Ex1\Lab1Ex1\obj\x86\Debug\Lab1Ex1.pdb
+P:\Development\DESKTOP\Current\Lab1Ex1\Lab1Ex1\bin\Debug\MessageProvider.dll
+P:\Development\DESKTOP\Current\Lab1Ex1\Lab1Ex1\bin\Debug\MessageProvider.pdb
+P:\Development\DESKTOP\Current\Lab1Ex1\Lab1Ex1\bin\Debug\MessageProvider.xml
+P:\Development\DESKTOP\Current\Lab1Ex1\Lab1Ex1\bin\Debug\Lab1Ex1.exe.config

@@ -1,0 +1,10 @@
+P:\Development\DESKTOP\Current\Lab1Ex1\MessageProvider\bin\Debug\MessageProvider.dll
+P:\Development\DESKTOP\Current\Lab1Ex1\MessageProvider\bin\Debug\MessageProvider.pdb
+P:\Development\DESKTOP\Current\Lab1Ex1\MessageProvider\bin\Debug\MessageProvider.xml
+P:\Development\DESKTOP\Current\Lab1Ex1\MessageProvider\obj\Debug\ResolveAssemblyReference.cache
+P:\Development\DESKTOP\Current\Lab1Ex1\MessageProvider\obj\Debug\MessageProvider.Resources.resources
+P:\Development\DESKTOP\Current\Lab1Ex1\MessageProvider\obj\Debug\GenerateResource.read.1.tlog
+P:\Development\DESKTOP\Current\Lab1Ex1\MessageProvider\obj\Debug\GenerateResource.write.1.tlog
+P:\Development\DESKTOP\Current\Lab1Ex1\MessageProvider\obj\Debug\MessageProvider.dll
+P:\Development\DESKTOP\Current\Lab1Ex1\MessageProvider\obj\Debug\MessageProvider.xml
+P:\Development\DESKTOP\Current\Lab1Ex1\MessageProvider\obj\Debug\MessageProvider.pdb

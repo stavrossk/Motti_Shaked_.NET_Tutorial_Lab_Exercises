@@ -1,0 +1,5 @@
+P:\Development\DESKTOP\Current\Lab1Ex2C\Lab1Ex2C\bin\Debug\Lab1Ex2C.exe
+P:\Development\DESKTOP\Current\Lab1Ex2C\Lab1Ex2C\bin\Debug\Lab1Ex2C.pdb
+P:\Development\DESKTOP\Current\Lab1Ex2C\Lab1Ex2C\obj\x86\Debug\ResolveAssemblyReference.cache
+P:\Development\DESKTOP\Current\Lab1Ex2C\Lab1Ex2C\obj\x86\Debug\Lab1Ex2C.exe
+P:\Development\DESKTOP\Current\Lab1Ex2C\Lab1Ex2C\obj\x86\Debug\Lab1Ex2C.pdb
